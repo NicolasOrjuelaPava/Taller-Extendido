@@ -1,0 +1,96 @@
+/* Add your styles here */
+
+body{
+
+   background: linear-gradient(rgba(255,255,255,0.8), rgba(255,255,255,1.1)), url("http://hirecase.com/wp-content/uploads/2015/04/acxiom-data-packages3.png");
+
+  background-position: center;
+  align-content: center;
+  background-repeat: repeat;
+}
+
+h1{
+
+  background-color: rgb(0, 255, 149,0.2);
+  align-content: center;
+  text-align: center;
+  
+  
+}
+
+h3{
+  font-style: italic;
+}
+
+#edu{
+  background-color: beige;
+
+}
+
+#fila1{
+  background-color: rgb(248, 248, 183);
+
+}
+
+#f1{
+  background-color: rgb(165, 241, 203);
+
+}
+#f2{
+  background-color: rgb(220, 244, 245);
+
+}
+#f3{
+  background-color: rgb(240, 212, 161);
+
+}
+#f4{
+  background-color: rgb(202, 231, 178);
+
+}
+#f5{
+  background-color: rgb(72, 241, 219);
+
+}
+
+#finance{
+  background-color: rgb(72, 241, 219);
+
+}
+
+#publi{
+  background-color: rgb(189, 240, 148);
+
+}
+
+#certi{
+  background-color: rgb(214, 221, 243);
+
+}
+
+
+#contact{
+  background-color: blanchedalmond;
+
+}
+
+.card{
+  background-color: rgb(153, 206, 223);
+}
+
+.image1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.descargar{
+  float: right;
+}
+
+
+p{
+
+  text-align: justify;
+}
